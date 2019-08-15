@@ -1,0 +1,23 @@
+{
+    "name": "eslint-plugin-verify-await",
+    "description": "ESLint rule to require async code",
+    "version": "0.0.1",
+    "author": {
+        "name": "Jonathan Kingston"
+    },
+    "devDependencies": {
+        "babel-eslint": "^8.2.3",
+        "eslint": "^4.16.0",
+        "mocha": "^5.1.1"
+    },
+    "peerDependencies": {
+        "eslint": ">=3"
+    },
+    "keywords": [
+        "eslint",
+        "eslint-plugin",
+        "eslintplugin"
+    ],
+    "license": "MPL-2.0",
+    "main": "index.js"
+}
